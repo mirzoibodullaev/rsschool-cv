@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.heading,
+.about {
+    margin-bottom: 15px;
+}
+
+.about_me {
+    color: red;
+}
+
+.skills_collection {
+    color: cadetblue;
+}
